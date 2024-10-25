@@ -98,7 +98,8 @@ Following inferences can be drawn from the **Bank Loan Dashboard**:
 ---
 ![Screenshot (471)](https://github.com/user-attachments/assets/7440bdf3-e077-49bf-b29b-d7f223188601)
 
-![Screenshot (472)](https://github.com/user-attachments/assets/2ab5ac33-b6d6-41c4-966b-016eef86adbb)
+![Screenshot (473)](https://github.com/user-attachments/assets/7468d8f8-df05-40f8-ab4a-c6791cecd542)
+
 
 
 ### Visualizations
