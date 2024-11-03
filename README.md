@@ -22,7 +22,7 @@ By leveraging this dashboard, the institution can monitor good versus bad loans,
 - Month-to-Date (MTD) and Month-over-Month (MoM) comparisons were added to track short-term changes.
 
 **Step 3: Dashboard Layout**
-- A dashboard layout was designed in Power BI with sections for *Good Loans*, *Bad Loans*, and overall performance metrics.
+- A dashboard layout was designed in Excel with sections for *Good Loans*, *Bad Loans*, and overall performance metrics.
 - Slicers were added to filter data by dimensions such as loan status, loan type, or region.
 
 **Step 4: Visualization and Chart Design**
